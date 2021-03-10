@@ -1,8 +1,8 @@
-ipykernel
 numpy
 pandas
 sklearn
 matplotlib
 seaborn
-tensorflow
 statsmodels
+lightgbm
+xgboost
